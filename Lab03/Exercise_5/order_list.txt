@@ -1,0 +1,11 @@
+Order ID: ORD1
+Invoice date: 2026-10-20
+Customer ID: C001
+Name: Nguyen Van An
+Address: Ho Chi Minh City
+Phone: 0901234567
+Romantic Package
+  Rose Perfume | Volume: 50.0 ml | Price: 1000000 VND
+  Dry Skin Shower Gel | Volume: 100.0 ml | Price: 2000000 VND
+Package price: 3000000 VND
+Order total: 3000000 VND
